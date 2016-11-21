@@ -1,7 +1,5 @@
-Adding from web (initial)
+Adding from web
 
 added from test2 (web site)
 
 Attempt to change from local.
-
-Update from master.
