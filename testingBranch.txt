@@ -1,4 +1,4 @@
-Adding from web (initial)
+Adding from web
 
 added from test2 (web site)
 
@@ -6,4 +6,6 @@ Attempt to change from local. (ha)
 
 Update from master.
 
-I likt it now.
+I like it now.
+I like it now.
+Attempt to change from local.
